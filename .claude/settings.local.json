@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./gradlew --version)",
+      "Bash(./gradlew :app:assembleDebug --no-daemon)",
+      "Bash(xargs ls)",
+      "WebFetch(domain:cloud-api.yandex.net)"
+    ]
+  }
+}

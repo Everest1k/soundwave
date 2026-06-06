@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- ============================================================ -->
+    <!-- ВСТАВЬ СВОИ ЦВЕТА ЗДЕСЬ. Все экраны ссылаются на эти токены. -->
+    <!-- ============================================================ -->
+
+    <!-- Фон главных экранов -->
+    <color name="bg_primary">#FF111111</color>
+
+    <!-- Фон карточек / поверхностей -->
+    <color name="bg_surface">#FF1A1A1A</color>
+
+    <!-- Фон нижней панели навигации -->
+    <color name="bg_navbar">#FF000000</color>
+
+    <!-- Фон мини-плеера (на скриншоте — фиолетовый) -->
+    <color name="bg_miniplayer">#FF4A1F4D</color>
+
+    <!-- Прогресс мини-плеера (заливка) -->
+    <color name="miniplayer_progress">#FFFFFFFF</color>
+
+    <!-- Прогресс мини-плеера (трек) -->
+    <color name="miniplayer_track">#FF7B2D80</color>
+
+    <!-- Основной текст -->
+    <color name="text_primary">#FFFFFFFF</color>
+
+    <!-- Вторичный текст (артист, подписи) -->
+    <color name="text_secondary">#FFB3B3B3</color>
+
+    <!-- Иконки нав-бара (неактивные) -->
+    <color name="nav_icon_inactive">#FFFFFFFF</color>
+
+    <!-- Иконки нав-бара (активные) -->
+    <color name="nav_icon_active">#FFFFFFFF</color>
+
+    <!-- Заглушка для треков без обложки -->
+    <color name="cover_placeholder">#FF2A2A2A</color>
+
+    <!-- Кнопка play в плеере -->
+    <color name="color_play_button">#FFEE44EE</color>
+</resources>

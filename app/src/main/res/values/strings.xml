@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">soundwave</string>
+    <string name="tab_home">главная</string>
+    <string name="tab_search">поиск</string>
+    <string name="tab_library">библиотека</string>
+    <string name="recommendations">рекомендации</string>
+    <string name="upload_track">загрузка трека</string>
+    <string name="search_hint">поиск</string>
+    <string name="no_tracks">пока нет треков. загрузи свой первый!</string>
+    <string name="unknown_artist">неизвестный исполнитель</string>
+    <string name="recent_searches">недавние</string>
+    <string name="clear_all">очистить все</string>
+    <string name="my_favorites">мои любимые</string>
+    <string name="playlists">плейлисты</string>
+    <string name="new_playlist">новый плейлист</string>
+    <string name="no_favorites">нет любимых треков</string>
+    <string name="no_playlists">нет плейлистов</string>
+    <string name="no_tracks_in_playlist">плейлист пуст</string>
+    <string name="add_tracks">добавить треки</string>
+    <string name="delete_playlist">удалить плейлист</string>
+    <string name="delete_confirm">удалить?</string>
+    <string name="delete">удалить</string>
+    <string name="cancel">отмена</string>
+    <string name="playlist_name_hint">название плейлиста</string>
+    <string name="create">создать</string>
+    <string name="track_added">добавлено</string>
+
+    <string name="login_title">войди или зарегистрируйся</string>
+    <string name="login_username_hint">логин</string>
+    <string name="login_password_hint">пароль</string>
+    <string name="login_login_btn">войти</string>
+    <string name="login_register_btn">зарегистрироваться</string>
+    <string name="login_admin_hint">админ: логин «admin», пароль «admin1234»</string>
+    <string name="login_registered">профиль создан</string>
+    <string name="login_register_failed">логин занят или поля пустые</string>
+    <string name="logout">выйти</string>
+
+    <string name="refresh_tracks">обновить треки</string>
+    <string name="refresh_tracks_hint">треки подгружаются из общей папки</string>
+    <string name="refresh_in_progress">загружаю треки…</string>
+    <string name="refresh_added">добавлено: %d</string>
+    <string name="refresh_yadisk_not_configured">ссылка на Яндекс.Диск не задана в RemoteTracksConfig.java</string>
+
+    <string name="rename">переименовать</string>
+    <string name="rename_hint">новое название</string>
+    <string name="save"> охранить</string>
+    <string name="admin_only">доступно только администратору</string>
+</resources>
