@@ -30,7 +30,7 @@
     <string name="login_password_hint">пароль</string>
     <string name="login_login_btn">войти</string>
     <string name="login_register_btn">зарегистрироваться</string>
-    <string name="login_admin_hint">админ: логин «admin», пароль «admin1234»</string>
+    <string name="login_admin_hint">все будет хорошо)</string>
     <string name="login_registered">профиль создан</string>
     <string name="login_register_failed">логин занят или поля пустые</string>
     <string name="logout">выйти</string>
